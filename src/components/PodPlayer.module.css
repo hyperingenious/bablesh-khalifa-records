@@ -1,0 +1,16 @@
+.podProgress {
+  width: 200px;
+  height: 4px;
+  border-radius: 293px;
+  -webkit-appearance: none;
+  background: white;
+  cursor: pointer;
+}
+
+.podProgress::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  border-radius: 2039px;
+}
